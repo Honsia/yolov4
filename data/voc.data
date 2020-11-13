@@ -1,0 +1,4 @@
+classes=20
+train=/package/lehongxia/project/PyTorch_YOLOv4/data/VOC/train.txt
+valid=/package/lehongxia/project/PyTorch_YOLOv4/data/VOC/test.txt
+names=data/voc.names
